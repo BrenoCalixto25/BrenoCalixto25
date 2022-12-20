@@ -25,3 +25,5 @@
   ![Snake animation](https://github.com/BrenoCalixto25/BrenoCalixto25/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+ 
